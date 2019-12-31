@@ -1,11 +1,11 @@
-# cordova-template-vue
+# cordova-template-cesium
 
-cordova和vue的工程模板
+cordova配合vue和cesium的工程模板。
 
 ## 如何使用
 
 ```bash
-cordova create myapp --template git+https://gitlab.alvisisme.com/cordova/cordova-template-vue
+cordova create myapp --template git+https://gitlab.alvisisme.com/cordova/cordova-template-cesium
 cd myapp
 yarn install
 yarn build

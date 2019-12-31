@@ -2077,6 +2077,13 @@ caseless@~0.12.0:
   resolved "https://registry.npm.taobao.org/caseless/download/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
+cesium@1.64.0:
+  version "1.64.0"
+  resolved "https://registry.npm.taobao.org/cesium/download/cesium-1.64.0.tgz#f2af7c4aa3b5f3b669ffb85007fff3a79f91e24f"
+  integrity sha1-8q98SqO187Zp/7hQB//zp5+R4k8=
+  dependencies:
+    esm "^3.2.25"
+
 chai@4.1.2:
   version "4.1.2"
   resolved "https://registry.npm.taobao.org/chai/download/chai-4.1.2.tgz#0f64584ba642f0f2ace2806279f4f06ca23ad73c"
@@ -3513,6 +3520,11 @@ eslint@5.16.0:
     strip-json-comments "^2.0.1"
     table "^5.2.3"
     text-table "^0.2.0"
+
+esm@^3.2.25:
+  version "3.2.25"
+  resolved "https://registry.npm.taobao.org/esm/download/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
+  integrity sha1-NCwYwp1WFXaIulzjH4Qx+7eVzBA=
 
 espree@^4.1.0:
   version "4.1.0"
@@ -8688,6 +8700,18 @@ vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
+
+vconsole-webpack-plugin@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.npm.taobao.org/vconsole-webpack-plugin/download/vconsole-webpack-plugin-1.5.1.tgz#b3032b07d94f22697c4a0e00710bdae4915ed3a2"
+  integrity sha1-swMrB9lPIml8Sg4AcQva5JFe06I=
+  dependencies:
+    vconsole "^3.1.0"
+
+vconsole@^3.1.0:
+  version "3.3.4"
+  resolved "https://registry.npm.taobao.org/vconsole/download/vconsole-3.3.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvconsole%2Fdownload%2Fvconsole-3.3.4.tgz#a7dacd8887b3d3e902e8d18425cda56c34e77f51"
+  integrity sha1-p9rNiIez0+kC6NGEJc2lbDTnf1E=
 
 vendors@^1.0.0:
   version "1.0.3"
