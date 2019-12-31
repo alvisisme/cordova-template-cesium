@@ -1,14 +1,11 @@
 {
   "name": "cordova-template-vue",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "cordova template with vue",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.alvisisme.com/cordova/cordova-template-vue.git"
+    "url": "https://gitlab.alvisisme.com/cordova/cordova-template-vue"
   },
   "keywords": [
     "ecosystem:cordova",
