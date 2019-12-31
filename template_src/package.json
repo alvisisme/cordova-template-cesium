@@ -1,11 +1,11 @@
 {
-  "name": "cordova-template-vue-src",
-  "displayName": "CordovaWithVue",
+  "name": "cordova-template-cesium-src",
+  "displayName": "CordovaWithCesium",
   "version": "0.1.0",
-  "description": "A cordova template with vuejs2.x for creating cordova app.",
+  "description": "A cordova template with Cesium for creating cordova app.",
   "keywords": [
     "ecosystem:cordova",
-    "ecosystem:vue"
+    "ecosystem:cesium"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",

@@ -1,11 +1,11 @@
 {
-  "name": "cordova-template-vue",
+  "name": "cordova-template-cesium",
   "version": "0.0.1",
-  "description": "cordova template with vue",
+  "description": "cordova template with cesium",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.alvisisme.com/cordova/cordova-template-vue"
+    "url": "git+https://gitlab.alvisisme.com/cordova/cordova-template-cesium"
   },
   "keywords": [
     "ecosystem:cordova",
