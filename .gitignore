@@ -1,2 +1,4 @@
 node_modules/
 *.tgz
+template_src/yarn.lock
+template_src/package-lock.json
