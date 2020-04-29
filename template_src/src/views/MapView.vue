@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     init () {
-      let viewerOption = {
+      const viewerOption = {
         homeButton: false, // 默认相机位置控件
         timeline: false, // 时间滚动条控件
         navigationHelpButton: false, // 默认的相机控制提示控件
@@ -30,7 +30,7 @@ export default {
         geocoder: false // 地理位置查询定位控件
 
       }
-      let viewer = new Cesium.Viewer(this.$el, viewerOption)
+      const viewer = new Cesium.Viewer(this.$el, viewerOption)
       viewer._cesiumWidget._creditContainer.style.display = 'none' // 隐藏版权
     }
   }

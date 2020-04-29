@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.alvisisme.com/cordova/cordova-template-cesium"
+    "url": "git+https://github.com/alvisisme/cordova-template-cesium.git"
   },
   "keywords": [
     "ecosystem:cordova",
