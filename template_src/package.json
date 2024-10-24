@@ -17,7 +17,7 @@
     "cesium": "1.68.0",
     "core-js": "3.6.4",
     "normalize.css": "8.0.1",
-    "vue": "2.6.11",
+    "vue": "3.0.0",
     "vue-router": "3.1.6",
     "vuex": "3.1.3"
   },
